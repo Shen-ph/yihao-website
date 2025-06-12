@@ -48,7 +48,6 @@
     <FooterBlock :darken="true"
                  :row="false">
       <FooterCopyright holder="YiHao Fastener"
-                       url=""
                        license="All Rights Reserved." />
     </FooterBlock>
   </Footer>
