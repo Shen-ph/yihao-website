@@ -28,7 +28,7 @@
                           ]"
                     :links="[
                               {label: `FaceBook`, href: `https://www.facebook.com/profile.php?id=61574274872360&mibextid=wwXIfr&mibextid=wwXIfr`, faIcon:`fa-brands fa-facebook`},
-                              {label: `TikTok`, href: `https://www.tiktok.com/@shen0522?_t=ZS-8x8tTxi5eEC&_r=1`, faIcon:`fa-brands fa-tiktok`}
+                              {label: `TikTok`, href: `https://www.tiktok.com/@luna_yihaofastener?_t=ZS-8x8tou3u8tb&_r=1`, faIcon:`fa-brands fa-tiktok`}
                           ]"
                     :displayLinksAsButtons="true" />
 
