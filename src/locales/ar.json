@@ -1,0 +1,14 @@
+{
+  "comment": "阿拉伯语",
+  "message": {
+    "hello": "مرحبا بالعالم!",
+    "welcome": "مرحباً, {name}!"
+  },
+  "button": {
+    "login": "تسجيل الدخول"
+  },
+  "text": {
+    "companyNameShort": "ييهاو",
+    "companyNameFull": "السحابات ييهاو"
+  }
+}

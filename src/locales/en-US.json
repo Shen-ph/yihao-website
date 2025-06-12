@@ -1,0 +1,95 @@
+{
+  "comment": "英语",
+  "message": {
+    "hello": "Hello world!",
+    "welcome": "Welcome, {name}!"
+  },
+  "button": {
+    "login": "Login",
+    "product": "Product",
+    "industries": "Industries",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "title": {
+    "product": "Our *Product*",
+    "industries": "*Industries* We Service",
+    "about":"*About* Us"
+  },
+  "subtitle": {
+    "product": "You can find what you want!",
+    "about":"Get to know more about us!"
+  },
+  "productClassify": {
+    "bolt": "Bolt",
+    "nut": "Nut",
+    "washer": "Washer",
+    "others": "Others"
+  },
+  "product": {
+    "carbonSteelBolt": "carbon steel bolt",
+    "carbonSteelBoltDes": "Carbon steel bolts are widely used fasteners known for their strength, durability, and cost-effectiveness. Made primarily from iron and carbon (typically 0.05%–1.5% carbon content), these bolts offer excellent mechanical properties and are suitable for general industrial applications.Carbon steel bolts often feature surface treatments like zinc plating or black oxide coating to enhance corrosion resistance. They are extensively used in construction, automotive assembly, machinery, and infrastructure projects due to their reliability and affordability",
+    "highStrengthBolt": "high strength bolt",
+    "highStrengthBoltDes": "High-strength bolts are heat-treated (quenched & tempered) alloy steel fasteners with tensile strength ≥800MPa. Key features:<br>1:<b>High Preload</b>: <br>Generates massive clamping force via torque control to resist dynamic loads;<br>2:<b>Anti-Loosening</b>: <br>Friction-type connections transfer shear through interface friction, preventing slippage;<br>3:<b>Grading</b>: <br>Common grades 8.8, 10.9, 12.9 (e.g., 10.9 = 1000MPa tensile strength, 0.9 yield ratio);<br><br><b>Typical Applications</b>: <br>Steel bridges, wind turbine towers, heavy machinery, aerospace critical joints",
+    "hexagonSocketHeadCapScrews": "hexagon socket-head cap screws",
+    "hexagonSocketHeadCapScrewsDes": "Hex socket head cap screws (commonly called 'Allen bolts') feature a hexagonal drive cavity in the head, driven by Allen keys. Their low-profile design suits confined spaces while enabling high torque transmission.Key Features:<br>1:<b>Material Grades</b>:<br> Carbon steel (4.8/8.8), stainless steel (A2-70/A4-80), alloy steel (10.9/12.9)<br>2:<b>Coatings</b>:<br> Black oxide, zinc/nickel plating, Dacromet (anti-corrosion up to 1000hrs)<br><br><b>Typical Applications</b>:<br>Precision machinery, mold jigs, electronics, automation systems, aerospace assemblies",
+    "stainlessSteelBolt": "stainless steel bolt",
+    "stainlessSteelBoltDes": "Stainless steel bolts, made from austenitic/martensitic alloys, offer corrosion resistance, chemical stability, and high-temperature performance for harsh/wet/sterile environments.Key Features:<br>1:<b>Strength Grades</b>:<br> A2-50/A2-70/A4-80 (e.g., A2-70=700MPa tensile)<br>2:<b>Finishing</b>:<br> Passivation, vibratory polishing,electropolishing (medical)<br>3:<b>Anti-Galling</b>: <br>Low-friction coatings (e.g., MoS₂)<br><br><b>Typical Applications</b>:<br>Food processing machinery, offshore structures, medical devices, chemical pipelines, outdoor architecture",
+    "automotiveBolt": "automotive bolt",
+    "automotiveBoltDes": "Automotive bolts are high-reliability fasteners engineered for vehicle dynamics, requiring resistance to vibration fatigue, dynamic loads, and extreme temperatures. Performance directly impacts driving safety.<br>1:<b>Anti-Loosening Tech</b>:<br>&nbsp&nbsp&nbsp(1)Pre-applied micro-encapsulated adhesive<br>&nbsp&nbsp&nbsp(2)All-metal lock washers/serrated flanges<br>2:<b>Lightweight Materials</b>:<br>&nbsp&nbsp&nbsp(1)Titanium (40% weight reduction), aluminum (non-structural)<br>&nbsp&nbsp&nbsp(2)Quenched boron steel (high-strength LWV)<br><br><b>Typical Applications</b>:<br>Engine blocks, transmission housings, suspension systems, battery enclosures, airbag modules",
+    "hotDipGalvanizedBolt": "hot-dip galvanized bolt",
+    "hotDipGalvanizedBoltDes": "Hot-dip galvanized bolts are carbon steel fasteners immersed in molten zinc (460°C), creating a zinc-iron alloy layer with dual protection (cathodic + barrier). Corrosion resistance exceeds 50 years, ideal for outdoor, high-humidity, salt-spray, and chemical environments.Key Advantages:<br>1:<b>Thick Coating</b>: <br>50-120μm zinc layer (5-10x thicker than electroplating)<br>2:<b>Self-Healing</b>: <br>Zinc sacrificially protects scratched areas<br>3:<b>Eco-Friendly</b>: <br>No Cr⁶⁺ (compliant with RoHS/REACH)<br>4:<b>Cost-Effective</b>: <br>1/3 the cost of stainless steel<br><br><b>Typical Applications</b>:<br>Power transmission towers, coastal bridges, port machinery, agricultural equipment, wastewater plants",
+    "steelStructureBolt": "steel structure bolt",
+    "steelStructureBoltDes": "Structural steel bolts connect load-bearing components (beams, columns, trusses), requiring high strength, fatigue resistance, and seismic performance. Classified into ordinary bolts (Grade C) and high-strength bolts (slip-critical/bearing-type).Key Features:<br>1:<b>Connection Types</b>:<br>&nbsp&nbsp&nbsp(1)Slip-Critical: Shear transfer by clamping force (no slippage)<br>&nbsp&nbsp&nbsp(2)Bearing-Type: Shear resistance by bolt shank (allow micro-slip) <br>2:<b>Corrosion Protection</b>:<br>&nbsp&nbsp&nbsp(1)Hot-dip galvanizing (≥55μm)<br>&nbsp&nbsp&nbsp(2)Arc-sprayed aluminum (200μm) <br>&nbsp&nbsp&nbsp(3) Epoxy coating (DFT≥80μm) <br>3:<b>Seismic Design</b>:<br>&nbsp&nbsp&nbsp(1)Ductile detailing (bolt diameter≤M36) <br>&nbsp&nbsp&nbsp(2)Tensile/yield strength ratio≥1.25 (anti-brittle fracture) <br><br><b>Typical Applications</b>:<br>Skyscraper core tubes, industrial plant trusses, stadium domes, bridge joints, wind turbine foundations",
+    "flangeBolt": "flange bolt",
+    "flangeBoltDes": "Flange bolts are fasteners consisting of three components: a hex head, a flange collar, and a threaded shank. They are typically paired with nuts to securely join two components with through-holes.Widely applied in mechanical engineering equipment, pump/valve piping systems, and maritime equipment installations, flange bolts are particularly suitable for aerial work scenarios. Their integrated flange design provides an enlarged contact surface area, eliminating the need for additional washers and enhancing assembly efficiency. Furthermore, these bolts are extensively utilized in precision devices such as electronic instruments and pharmaceutical equipment due to their compact structure",
+    "wingBolt": "wing bolt",
+    "wingBoltDes": "Wing bolt (thumb screws) are specifically designed for manual operation, featuring wing-shaped heads that provide broad contact surfaces for lateral force application, enabling efficient hand tightening. These bolt are primarily used in applications requiring electrical insulation and frequent disassembly for maintenance, including:<br><b>Display monitor assemblies<b/><br><b>White goods & brown goods (household appliances)<b/><br><b>Telecommunications and data communication equipment<b/><br><b>Automotive electronics components<b/>",
+    "carbonSteelNut": "carbon steel nut",
+    "zpNut": "zp nut",
+    "highStrengthNut": "high strength nut",
+    "stainlessSteelNut": "stainless steel nut",
+    "hotDipGalvanizedNut": "hot-dip galvanized nut",
+    "flangeNut": "flange nut",
+    "lockNut": "lock nut",
+    "wingNut": "wing nut",
+    "washer": "washer",
+    "springWasher": "spring washer",
+    "largedWasher": "larged washer",
+    "expansionBolt": "expansion bolt",
+    "expansionBoltDes": "Expansion bolt is a fastener that generates friction or mechanical locking in the base material hole through expansion to achieve anchoring<br>The working principle of the expansion bolt is to promote the expansion through the wedge slope to produce friction grip force, so as to achieve the fixed effect. When in use, first drill holes of corresponding size on the fixed body with an impact electric drill, then install the bolts and expansion pipes into the holes, and tighten the nuts to make the bolts, expansion pipes, mounting parts and the fixed body tight<br>Expansion bolts are widely used in construction, decoration, furniture and other fields, such as fixing ceiling, installing pipes, furniture components, etc",
+    "drillTailScrew": "drill tail screw",
+    "drillTailScrewDes": "Drill tail screw is a special kind of screw. Its tail is in the shape of tail drilling or pointed tail, which can be directly drilled, tapped and locked on the setting material or basic material without auxiliary processing, thus greatly saving construction time<br>The main uses of drill tail wire include color steel tile fixation of steel structure and sheet metal fixation of simple buildings, but it cannot be used for metal to metal bonding fixation<br>The drill tail wire is applicable to a variety of materials, such as aluminum plate, wood plate, rubber plate, etc",
+    "drywallScrew": "drywall screw",
+    "drywallScrewDes": "Dry wall nails are a type of fixing material used in construction and decoration. The material of dry wall nails usually has good durability and can effectively fix dry walls, ensuring the stability of the wall.<br>High quality drywall nails can not only improve the decoration effect, but also reduce the trouble of later maintenance, especially in humid environments. Rust proof and corrosion-resistant drywall nails can demonstrate their unique advantages",
+    "plasticExpansionScrew": "plastic expansion screw",
+    "plasticExpansionScrewDes": "Plastic expansion screws are a common fixing component, mainly used for the installation and fixation of lightweight objects<br><br>The plastic expansion screw consists of a plastic expansion tube and a metal screw. Plastic expansion tubes have a softer texture, making them easier to expand and deform, while metal screws are used to install nuts and other accessories to achieve fastening<br><br>Plastic expansion screws are suitable for some lightweight installation tasks, such as hanging picture frames, installing small shelves, etc. Due to its low cost and easy installation, it is suitable for fixing some lightweight objects in home decoration",
+    "screwRod": "screw rod",
+    "screwRodDes": "Screw rod is a cylindrical fastener with threads on both ends, commonly used in large equipment that requires frequent adjustment of component positions. It is favored for its flexibility and ease of adjustment,Widely used in<br>1. <b>Industrial field</b>: In water supply and drainage engineering, HVAC installation, fully threaded bolts are used to quickly connect pipelines and equipment supports, making it easy to cope with uncertain situations during on-site construction<br>2. <b>Heavy machinery equipment</b>: In large equipment that requires frequent adjustment of component positions, fully threaded bolts make equipment installation more flexible, easy to modify and maintain<br>3. <b>Power facilities</b>: Especially in the assembly of high-voltage towers, the safety and reliability of fully threaded bolts are key factors in ensuring the safe operation of large-scale power grids<br>4. <b>Petroleum and petrochemical industry</b>: In the connection of key equipment such as pressure vessels and pipelines, fully threaded bolts withstand the impact of high pressure, extreme temperature, corrosion and other complex conditions to ensure the stability and durability of the connection",
+    "footerTitle":"Work with us and *save money!*",
+    "footerDes":"Want a quote for the project budget? Reach out to us, and we'll promptly provide the information you need. *We offer free samples to support your evaluation.* Our team is here to assist you in any way we can!",
+    "footerBtnLabel":"Contact Us!"
+  },
+  "industries": {
+    "industries1Title": "Oil & Gas",
+    "industries1Des": "Our fasteners are designed for durability and reliability with resistance to corrosion and high pressures, they ensure safety and efficiency in the world's most demanding environments.",
+    "industries2Title": "Power Generation",
+    "industries2Des": "Our products are engineered and procured to meet the rigorous demands of various power generation modalities including fossil fuel, steam, nuclear, and renewable energy sources.",
+    "industries3Title": "Power Transmission",
+    "industries3Des": "High-quality fasteners secure the infrastructure of these networks, from substations to transmission lines. Our products are built to resist environmental wear and tear, ensuring long-term reliability and performance in powering homes, businesses, and communities.",
+    "industries4Title": "Construction",
+    "industries4Des": "We supply fasteners that are essential in building commercial and residential structures, offering reliability from the ground up. Our products are the preferred choice for construction projects aiming for longevity and aesthetic appeal.",
+    "industries5Title": "Manufacturing",
+    "industries5Des": "We provide solutions tailored to meet the rigorous demands of the manufacturing industry. Our products ensure durability, precision alignment, and superior load distribution, crucial for optimizing machinery performance and extended lifecycle. ",
+    "industries6Title": "Transportation & Infrastructure",
+    "industries6Des": "Providing fastening solutions that support the construction and maintenance of roads, bridges, tunnels, and public transit systems. Our fasteners ensure these structures are safe, durable, and ready to withstand the rigors of daily use."
+  },
+  "about":{
+    "paragraphs":"<b>YiHao Fasteners Co. Ltd.</b> was founded in 1997, relying on a vertical supply chain system constructed by 37 deeply cooperative factories We specialize in providing a comprehensive range of fasteners, serving hundreds of manufacturers and suppliers with reliable products tailored to diverse industrial needs.<br>Why Choose Us?<br><br><b>Extensive Product Range</b> – From standard screws and bolts to customized fasteners, we offer a full spectrum of solutions to meet your requirements.<br><br><b>Competitive Pricing</b> – By optimizing our supply chain, we deliver affordable products without compromising quality.<br><br><b>Quality Assurance</b> – Rigorous testing and strict quality control ensure durability and performance in every batch.<br><br><b>Proven Global Impact</b> – Our integrated supply chain delivers measurable value across continents. For a German industrial client, we *achieved 40% procurement cost reduction* through strategic factory matching and logistics optimization. In Saudi Arabia, a major project *saved 68 working hours* by utilizing our one-stop solution for 23 specialized fastener types – all certified, all delivered in 15 days.<br><br>Backed by deep industry expertise and long-term partnerships, we are committed to delivering excellence in both product and service. Partner with us for fasteners that combine reliability, value, and efficiency."
+  },
+  "text": {
+    "companyNameShort": "*YiHao*",
+    "companyNameFull": "*YiHao* Fasteners",
+    "companySlogan": "<strong>High</strong> Quality, <strong>Low</strong> Prices, <strong>Wide</strong> Variety, <strong>Excellent</strong> Service"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "comment": "中文",
+  "message": {
+    "hello": "你好，世界！",
+    "welcome": "欢迎, {name}！"
+  },
+  "button": {
+    "login": "登录",
+    "product": "产品",
+    "industries": "服务行业",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "text": {
+    "companyNameShort": "*懿浩*",
+    "companyNameFull": "*懿浩*紧固件",
+    "companySlogan": "<strong>高</strong>品质，<strong>低</strong>价格，<strong>多</strong>种类，<strong>优</strong>服务"
+  }
+}
