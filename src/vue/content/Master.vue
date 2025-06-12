@@ -14,12 +14,11 @@
       <FooterColumn title="About"
                     faIcon="fa-solid fa-pen-to-square me-1 d-none d-md-inline"
                     :description="[
-                              `This template is maintained by Ryan Balieiro and is based on the <a href='https://getbootstrap.com/'>Bootstrap</a> framework and the <a href='https://vuejs.org/'>Vue</a> framework.`
+                              $t('text.companySlogan')
                           ]"
                     :links="[
                               {label: `Privacy Policy`, href: `/privacy-policy`, faIcon: null},
-                              {label: `License`, href: `/license`, faIcon: null},
-                              {label: `Github Repo`, href: `https://github.com/ryanbalieiro/vue-agency-landing-page-template`, faIcon: null},
+                              // {label: `License`, href: `/license`, faIcon: null}
                           ]"
                     :displayLinksAsButtons="false" />
 
@@ -28,31 +27,29 @@
                     :description="[
                           ]"
                     :links="[
-                              {label: `Twitter`, href: `https://twitter.com`, faIcon:`fa-brands fa-twitter`},
-                              {label: `TikTok`, href: `https://tiktok.com`, faIcon:`fa-brands fa-tiktok`},
-                              {label: `Linkedin`, href: `https://linkedin.com`, faIcon:`fa-brands fa-linkedin`},
-                              {label: `Spotify`, href: `https://spotify.com`, faIcon:`fa-brands fa-spotify`},
+                              {label: `FaceBook`, href: `https://www.facebook.com/profile.php?id=61574274872360&mibextid=wwXIfr&mibextid=wwXIfr`, faIcon:`fa-brands fa-facebook`},
+                              {label: `TikTok`, href: `https://www.tiktok.com/@shen0522?_t=ZS-8x8tTxi5eEC&_r=1`, faIcon:`fa-brands fa-tiktok`}
                           ]"
                     :displayLinksAsButtons="true" />
 
       <FooterColumn title="Contact Info"
                     faIcon="fa fa-fax me-2"
                     :description="[
-                              `999 Vue Developer's Avenue, 4A Suite 32`,
-                              `Cupertino – CA 01235`
+                              `China International Standard Parts IndustryCity of Yongnian Handan`,
+                              `Heibei,China`
                           ]"
                     :links="[
-                              {label: `(555) 555-1234`, href: `tel:123456789`, faIcon: 'fa-regular fa-bell'},
-                              {label: `contact@foxyagency.com`, href: `mailto:foxy@agency.com`, faIcon: 'fa-regular fa-envelope'},
+                              {label: `(+86)13730009551`, href: `tel:(+86)13730009551`, faIcon: 'fa-brands fa-whatsapp'},
+                              {label: `gary@yihaofastener.com`, href: `gary@yihaofastener.com`, faIcon: 'fa-regular fa-envelope'},
                           ]"
                     :displayLinksAsButtons="false" />
     </FooterBlock>
 
     <FooterBlock :darken="true"
                  :row="false">
-      <FooterCopyright holder="Ryan Balieiro"
-                       url="https://github.com/ryanbalieiro"
-                       license="Distributed Under the MIT License" />
+      <FooterCopyright holder="YiHao Fastener"
+                       url="www.yihaofastener.com"
+                       license="All Rights Reserved." />
     </FooterBlock>
   </Footer>
 </template>
@@ -63,6 +60,10 @@ import Footer from '/src/vue/components/footer/Footer.vue'
 import FooterBlock from '/src/vue/components/footer/FooterBlock.vue'
 import FooterCopyright from '/src/vue/components/footer/FooterCopyright.vue'
 import FooterColumn from '/src/vue/components/footer/FooterColumn.vue'
+import { useI18n } from 'vue-i18n'
+
+const { t } = useI18n()
+
 </script>
 
 <style lang="scss" scoped>

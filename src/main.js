@@ -38,20 +38,20 @@ const router = createRouter({
             }
         },
 
-        {
-            path: "/license",
-            name: "license",
-            component: LicensePage,
-            props: {
-                label: "License",
-                faIcon: "fa-solid fa-copy",
-                inPageNavbar: false,
-                shouldAlwaysPreload: false,
-                breadcrumbs: [
-                    "/"
-                ]
-            }
-        },
+        // {
+        //     path: "/license",
+        //     name: "license",
+        //     component: LicensePage,
+        //     props: {
+        //         label: "License",
+        //         faIcon: "fa-solid fa-copy",
+        //         inPageNavbar: false,
+        //         shouldAlwaysPreload: false,
+        //         breadcrumbs: [
+        //             "/"
+        //         ]
+        //     }
+        // },
 
         {
             path: "/:pathMatch(.*)*",
