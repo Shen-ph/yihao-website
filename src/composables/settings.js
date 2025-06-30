@@ -9,7 +9,7 @@ export function useSettings() {
       /**
        * 如果想在调整期间暂时停用预加载动画,return false
        */
-        return false
+        return true
     }
 
     /**
