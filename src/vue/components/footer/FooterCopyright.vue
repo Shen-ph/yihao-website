@@ -19,15 +19,9 @@ const formattedCopyright = computed(() => {
   return strings.getCopyrightMessage(
     new Date().getFullYear().toString(),
     props.holder,
-    '',
+    props.url,
     props.license
   )
-  // return strings.getCopyrightMessage(
-  //     new Date().getFullYear().toString(),
-  //     props.holder,
-  //     props.url,
-  //     props.license
-  // )
 })
 </script>
 

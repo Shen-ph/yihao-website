@@ -48,6 +48,7 @@
     <FooterBlock :darken="true"
                  :row="false">
       <FooterCopyright holder="YiHao Fastener"
+                       url="https://www.yihaofastener.com"
                        license="All Rights Reserved." />
     </FooterBlock>
   </Footer>
@@ -62,7 +63,6 @@ import FooterColumn from '/src/vue/components/footer/FooterColumn.vue'
 import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
-
 </script>
 
 <style lang="scss" scoped>
