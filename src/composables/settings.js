@@ -18,7 +18,7 @@ export function useSettings() {
     const getCredentialsForEmailJS = () => {
         return {
             publicKey: "TESKiWX7B5ldpdVVv",
-            serviceId: "default_service",
+            serviceId: "service_44qar59",
             templateId: "template_07ht8fn"
         }
     }
